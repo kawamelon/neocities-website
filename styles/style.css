@@ -1,5 +1,10 @@
 body {
     background-color: lightblue;
+    
+    background-image: url("/images/starsforever.gif");
+    background-repeat: repeat-y;
+    background-repeat: repeat-x;
+
     color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
